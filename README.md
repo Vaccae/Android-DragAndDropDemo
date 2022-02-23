@@ -1,0 +1,2 @@
+# Android-DragAndDropDemo
+Android的DragAndDrop的拖拽效果Demo，用了两种方式实现，传统方式和Jetpack库中新的方式
